@@ -1,0 +1,11 @@
+Simple Bible        #012b58
+
+[titulo] [font: Ubuntu Sans Mono]
+Como esta se sentindo hoje?
+
+[Opções]
+Querendo Saber Como Orar
+Ansioso e impaciente 
+Enfrentando uma tentação
+Com medo de testemunhar sua fé em Jesus
+Sem desejo de participar dos cultos
