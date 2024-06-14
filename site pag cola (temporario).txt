@@ -39,6 +39,8 @@ Sem desejo de participar dos cultos
             </div>
         </article>
     </main>
-
+    <footer>
+        <p>Site criado por <a href="#">Diogo Benedetti</a></p>
+    </footer>
 </body>
 </html>

@@ -82,3 +82,24 @@ main .option {
     color: black;
     line-height: 30px;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding: 10px 1px 10px 1px;
+    margin-top: 20px;
+    
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #007bff;
+}
