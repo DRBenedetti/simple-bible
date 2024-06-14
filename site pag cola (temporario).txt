@@ -37,6 +37,17 @@ Sem desejo de participar dos cultos
                 <h3></h3>
                 <p></p>
             </div>
+
+            <div class="versiculo">
+                <h3></h3>
+                <p></p>
+            </div>
+
+            <div class="versiculo">
+                <h3></h3>
+                <p></p>
+            </div>
+            
         </article>
     </main>
     <footer>
