@@ -35,9 +35,7 @@ Sem desejo de participar dos cultos
         <article>
             <div class="versiculo">
                 <h3></h3>
-                <p>
-                    
-                </p>
+                <p></p>
             </div>
         </article>
     </main>

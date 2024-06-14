@@ -62,11 +62,12 @@ main .versiculo {
     max-width: 500px;
     min-width: 350px;
     margin: auto;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     padding: 20px 20px 20px 20px;
     border-radius: 8px;
     box-shadow: 3px 5px 1px black;
-    
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 main h3 {
@@ -78,6 +79,7 @@ main p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: left;
     line-height: 1.4em;
+    font-size: large;
 }
 
 main sup {
